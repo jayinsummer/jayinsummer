@@ -1,6 +1,5 @@
 ## Hi, I'm Jaewon 👋
-
-### 다양한 분야에 대한 이해를 바탕으로 높은 협업능력을 자랑하는, **백엔드 개발자** 유재원입니다.
+다양한 분야에 대한 이해를 바탕으로 높은 협업능력을 자랑하는, **백엔드 개발자** 유재원입니다.
 
 <!--
 **jayinsummer/jayinsummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
