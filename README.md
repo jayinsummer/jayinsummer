@@ -1,5 +1,7 @@
 ## Hi, I'm Jaewon 👋
-다양한 분야에 대한 이해를 바탕으로 높은 협업능력을 자랑하는, **백엔드 개발자** 유재원입니다.
+다양한 분야에 대한 이해를 바탕으로 높은 협업능력을 자랑하는, **인공지능 개발자** 유재원입니다.
+* 숙명여자대학교 영어영문학전공/IT공학전공 재학
+* My Portfolio: https://languid-suit-034.notion.site/44fd94a81b1747f385bd479a6a80ddd4?pvs=74
 
 <!--
 **jayinsummer/jayinsummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
